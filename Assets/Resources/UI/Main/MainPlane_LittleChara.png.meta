@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 60afe6590a03d18418dd2ce88d44aaaa
+timeCreated: 1545899914
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MainPlane_diamond
+    21300002: MainPlane_oil
+    21300004: MainPlane_money
+    21300006: MainPlane_experiencebar
+    21300008: MainPlane_btn_add
+    21300010: MainPlane_LittleChara_0
+    21300012: MainPlane_LittleChara_1
+    21300014: MainPlane_LittleChara_close
+    21300016: MainPlane_LittleChara_warehouse
+    21300018: MainPlane_LittleChara_sort
+    21300020: MainPlane_LittleChara_use
+    21300022: MainPlane_LittleChara_windowhead
+    21300024: MainPlane_LittleChara_back
+    21300026: MainPlane_LittleChara_handle
+    21300028: MainPlane_LittleChara_itemkind1
+    21300030: MainPlane_LittleChara_itemkind0
+    21300032: MainPlane_LittleChara_star
+    21300034: MainPlane_LittleChara_2
+    21300036: MainPlane_LittleChara_heroequite
+    21300038: MainPlane_LittleChara_heroequitehead
+    21300040: MainPlane_LittleChara_property_bg
+    21300042: MainPlane_LittleChara_heronamebg
+    21300044: MainPlane_LittleChara_confirm
+    21300046: MainPlane_LittleChara_cancel
+    21300048: MainPlane_LittleChara_3
+    21300050: MainPlane_LittleChara_4
+    21300052: MainPlane_LittleChara_5
+    21300054: MainPlane_LittleChara_6
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainPlane_diamond
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1445
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_oil
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1804
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_money
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1141
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_experiencebar
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1036
+        width: 374
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 14, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_btn_add
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1292
+        width: 166
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_0
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1862
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1780
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_close
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1388
+        width: 128
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_warehouse
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1602
+        width: 87
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_sort
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1203
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_use
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1316
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_windowhead
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1342
+        width: 405
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_back
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1693
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_handle
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 386
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_itemkind1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1703
+        width: 201
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_itemkind0
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1161
+        width: 201
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_star
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1392
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 786
+        width: 191
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_heroequite
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 235
+        width: 524
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_heroequitehead
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1302
+        width: 111
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_property_bg
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1350
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_heronamebg
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1276
+        width: 152
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_confirm
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1869
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_cancel
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1868
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1200
+        width: 161
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_4
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 488
+        width: 575
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1146
+        width: 233
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainPlane_LittleChara_6
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1263
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
